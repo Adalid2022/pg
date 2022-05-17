@@ -6,3 +6,8 @@ h1{
     color: aquamarine;
     font-family: 'Trebuchet MS';
 }
+h2 {
+    color: aquamarine;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+}
